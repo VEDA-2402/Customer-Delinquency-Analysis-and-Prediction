@@ -18,6 +18,8 @@ Credit card default is a significant source of portfolio risk for financial inst
 **Key Challenge:** Identify which customers will become delinquent (miss payments 30+ days) before default occurs, enabling proactive credit management.
 
 ---
+![Demographic Analysis](demographic_analysis.png)
+---
 
 ## 📈 Key Findings
 
@@ -54,4 +56,5 @@ Credit card default is a significant source of portfolio risk for financial inst
 - Computed correlation matrix between features and delinquency
 - Discovered weak individual correlations (r < 0.01)
 - Determined need for nonlinear ML approach
+
 
