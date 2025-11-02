@@ -20,7 +20,8 @@ Credit card default is a significant source of portfolio risk for financial inst
 ---
 ![Demographic Analysis](demographic_analysis.png)
 ---
-
+![key insights](key_insights.png).
+---
 ## 📈 Key Findings
 
 ### Delinquency Rates by Demographic Segment
