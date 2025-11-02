@@ -54,6 +54,4 @@ Credit card default is a significant source of portfolio risk for financial inst
 - Computed correlation matrix between features and delinquency
 - Discovered weak individual correlations (r < 0.01)
 - Determined need for nonlinear ML approach
-- Computed correlation matrix between features and delinquency
-- Discovered weak individual correlations (r < 0.01)
-- Determined need for nonlinear ML approach
+
