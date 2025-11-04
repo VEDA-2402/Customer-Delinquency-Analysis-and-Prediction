@@ -1,5 +1,13 @@
 # Credit Card Delinquency Prediction using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-success?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-teal?logo=seaborn)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn%20%7C%20XGBoost-orange?logo=scikitlearn)
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
+
 ## Overview
 
 This project analyzes data from over **10,000+ credit card customers** to identify high-risk delinquency patterns and build a predictive ML model.
@@ -7,7 +15,12 @@ Through demographic and behavioral insights, it uncovers patterns that tradition
 The goal: **predict customers likely to default (miss payments 30+ days)** and help banks take proactive action.
 
 **Business Impact:**
+
 Early defaulter detection enables banks to deploy targeted interventions, minimize portfolio losses, and refine credit policies.
+
+**Executive Insight:**
+
+The analysis reveals that customer behavior and satisfaction are stronger predictors of delinquency than income or age alone. Middle-aged, mid-to-high income, and dissatisfied customers emerge as the highest-risk groups, underscoring the value of behavioral insights in credit risk modeling.
 
 ---
 
@@ -145,6 +158,10 @@ src/
 * Explore **cost-sensitive learning** or **threshold tuning**.
 * Add **behavioral time-series features** for next iteration.
 
+**Limitations:**
+
+Despite high accuracy, the model underperforms in identifying defaults due to severe class imbalance which is a common challenge in financial risk modeling.
+
 ---
 
 ## Project Structure
@@ -190,7 +207,7 @@ pip install -r requirements.txt
 
 ```bash
 # Step 1: Data preprocessing
-python src/delinquency_Prediction_ML.py
+python src/Refining_Data_ML.py
 
 # Step 2: Train the model
 python src/ML_training_model.py
@@ -242,7 +259,7 @@ GitHub: [@VEDA-2402](https://github.com/VEDA-2402)
 
 Project Repo: [Customer-Delinquency-Analysis-and-Prediction](https://github.com/VEDA-2402/Customer-Delinquency-Analysis-and-Prediction)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/veda-t-8b9a7134a/)
+[LinkedIn](https://www.linkedin.com/in/veda-t-8b9a7134a/)
 
 ---
 
